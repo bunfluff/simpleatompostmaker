@@ -1,6 +1,6 @@
 # <p align="center">a simple atom post maker</p>
 
-![preview of the script in the linux cli](picture.png)
+<img src="picture.png" alt="preview of the script in the linux cli" align="center"><br>
 it's what the title says! sapm (acronym) is written in bash by someone who knows way too little about bash
     
 ## 🛠️ features 
