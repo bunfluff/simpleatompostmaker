@@ -20,7 +20,7 @@ it's what the title says! sapm (acronym) is written in bash by someone who knows
 
 ## 💡 usage
 ### automatic setup
-1. customize `configs/auto.conf`*
+1. customize `configs/auto.conf`
 2. place your text post content into `content.html`
 3. configure your `configs/atom.tpl`
 4. run `atom.sh` and select option `1`
