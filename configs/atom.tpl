@@ -1,6 +1,6 @@
 <entry>
     <title>${TITLE}</title>
-    <id>tag:catboo.neocities.org,${IDDATE}:/blog-${ID}</id>
+    <id>tag:example.com,${IDDATE}:/blog-${ID}</id>
     <link rel=\"alternate\" href=\"${LINK}\" type=\"text/html\"></link>
     <published>${DATE}</published>
     <updated>${DATE}</updated>
